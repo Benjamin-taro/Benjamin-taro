@@ -1,6 +1,6 @@
 # Hello, I'm Yuki 👋
 
-![Profile views](https://gpvc.arturio.dev/Benjamin_taro)
+![](https://komarev.com/ghpvc/?username=Benjamin-taro)
 
 ## About Me
 
