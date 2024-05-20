@@ -12,10 +12,9 @@
 - 🗣️ Speaking Japanese and English / 日本語と英語を話すことができる。
 - 📖 Currently studying Korean / 韓国語を現在勉強中。
 
-## My Works
+## My Works and Projects
 coming soon...
 
-## My Accounts
 ## My Accounts
 
 - 🌐 [Atcoder](https://atcoder.jp/users/Benjamin_taro) Current Rate / 現在のレート: ![Atcoder Rating](https://badges.joonhyung.xyz/atcoder/Benjamin_taro.svg)
