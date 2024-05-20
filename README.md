@@ -16,9 +16,10 @@
 coming soon...
 
 ## My Accounts
+## My Accounts
 
-- 🌐 [Atcoder](https://atcoder.jp/users/Benjamin_taro)
-- 👨‍💻 [Codeforces](https://codeforces.com/profile/Benjamin_taro)
+- 🌐 [Atcoder](https://atcoder.jp/users/Benjamin_taro) Current Rate / 現在のレート: ![Atcoder Rating](https://badges.joonhyung.xyz/atcoder/Benjamin_taro.svg)
+- 👨‍💻 [Codeforces](https://codeforces.com/profile/Benjamin_taro) Current Rate / 現在のレート: ![Codeforces Rating](https://badges.joonhyung.xyz/codeforces/Benjamin_taro.svg)
 - 🐦 [X (formerly Twitter)](https://twitter.com/_Benjamin_taro_)
 
 ## 🛠️ My Skills
