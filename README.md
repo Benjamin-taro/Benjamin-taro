@@ -1,6 +1,10 @@
 # Hello, I'm Yuki👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-taro&layout=compact)
+
+
 ![](https://komarev.com/ghpvc/?username=Benjamin-taro)
+
 
 ## About Me
 
