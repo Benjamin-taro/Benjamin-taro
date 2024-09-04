@@ -1,6 +1,13 @@
-# Hello, I'm Yuki👋
+## Hello, I'm Yuki👋
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-taro&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Benjamin-taro&show_icons=true&theme=radical" width="300px" height="150px" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-taro&layout=compact&theme=radical" width="300px" height="150px" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Benjamin-taro&theme=radical" width="600px" />
+
+</div>
 
 
 ![](https://komarev.com/ghpvc/?username=Benjamin-taro)
@@ -17,7 +24,25 @@
 - 📖 Currently studying Korean / 韓国語を現在勉強中。
 
 ## My Works and Projects
-coming soon...
+### Python
+- **Graduate Thesis**: Implemented Granger Causality tests and developed a **Spatial Lag Regression Model** to analyze transport data for my Master's dissertation.
+- **Dissertation Projects**: Applied various mathematical and statistical methods using Python to explore urban transportation systems.
+
+### C++
+- **Competitive Programming**: Active participant in competitive programming challenges on **Atcoder** and **Codeforces**, using C++ to solve complex algorithmic problems.
+
+### C#
+- **Class Assignments**: Developed several in-class projects and assignments, gaining experience with object-oriented programming and real-time applications.
+
+### VBA
+- **Automation Projects**: Leveraged VBA to automate tasks in Microsoft Excel, improving productivity and reducing manual work.
+
+### Google Apps Script (JavaScript)
+- **Slack Bot**: Created a custom bot for Slack, automating workflow notifications and team communications.
+- **LINE Notify**: Integrated **LINE Notify API** to send automated notifications via LINE for various tasks.
+
+### Swift
+- **Introductory App**: Built a basic iOS application as an introduction to mobile development with Swift.
 
 ## My Accounts
 
@@ -35,6 +60,9 @@ coming soon...
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks and Libraries
 
@@ -44,3 +72,7 @@ coming soon...
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
