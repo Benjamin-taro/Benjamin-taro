@@ -16,52 +16,52 @@
 ## About Me
 
 - 🏙️ From Yokohama, Japan / 横浜出身
-- 🏫 Studying City Planning MSc at the [University of Glasgow, Scotland](https://www.gla.ac.uk/) / グラスゴー大学大学院にて都市計画(City Planning)を学んでいる。
-- 🌏 Studied Global Business BA at [Akita International University, Japan](https://web.aiu.ac.jp/en/) / 国際教養大学国際教養学部グローバルビジネス課程を卒業。
-- 💻 I'm currently into Competitive Programming, [Atcoder](https://atcoder.jp/) / 現在は競技プログラミング、特にAtcoderにハマっている。
-- 🚄 Doing transport data analytics for master's dissertation / 修士課程の修士論文にて交通データを扱うデータ分析を行っている。
-- 🗣️ Speaking Japanese and English / 日本語と英語を話すことができる。
-- 📖 Currently studying Korean / 韓国語を現在勉強中。
+- 🏫 Studying MSc in City Planning at the [University of Glasgow, Scotland](https://www.gla.ac.uk/) / グラスゴー大学大学院にて都市計画(City Planning)を学んでいます。
+- 🌏 Graduated with a BA in Global Business from [Akita International University, Japan](https://web.aiu.ac.jp/en/) / 国際教養大学国際教養学部グローバルビジネス課程を卒業しました。
+- 💻 Passionate about Competitive Programming, especially on [Atcoder](https://atcoder.jp/) / 現在は競技プログラミング、特にAtcoderに熱中しています。
+- 🚄 Conducted transportation data analytics for my master’s dissertation / 修士論文にて交通データを扱ったデータ分析を行いました。
+- 💼 Actively seeking opportunities in various fields, ranging from Data Science to Software Engineering / データサイエンスからソフトウェアエンジニアリングまで、幅広い分野でのプロジェクトや機会を探しています。
+- 🗣️ Fluent in Japanese🇯🇵 and English🇬🇧 / 日本語と英語を話せます。
+- 📖 Currently studying Spanish🇪🇸 / スペイン語を勉強中です。
+
 
 ## Works and Projects
 
-### Python
-- **Graduate Thesis**  
-  Implemented Granger Causality tests and developed a Spatial Lag Regression Model to analyze transport data for my Master's dissertation.  
-  **Technologies and skillsets used**: Python, Pandas, Numpy, Statsmodels
+### Graduate Thesis (Undergraduate Programme)  
+Implemented Granger Causality tests to analyze the relationship between economic development and transportation infrastructure.  
+**Technologies and skillsets used**: Python, Pandas, Numpy, Statsmodels, Causality Test
 
-- **Dissertation Projects**  
-  Applied various mathematical and statistical methods using Python to explore urban transportation systems.  
-  **Technologies and skillsets used**: Python, Matplotlib, Scikit-learn, Geopandas
+### Dissertation Project (Postgraduate Programme)  
+Explored the dynamics of ride-hailing usage and public transportation infrastructure in NYC using spatial lag regression models.  
+**Technologies and skillsets used**: Python, Matplotlib, Scikit-learn, Regression, Spatial Lag Model
 
-### C++
-- **Competitive Programming**  
-  Participated in programming contests to solve algorithmic challenges on platforms like Atcoder and Codeforces.  
-  **Technologies and skillsets used**: C++, STL
+### Competitive Programming  
+Actively participated in algorithmic challenges on platforms such as Atcoder and Codeforces.  
+**Technologies and skillsets used**: C++, Python, Problem-solving, Algorithms
 
-### C#
-- **Class Assignments**  
-  Developed several in-class projects, gaining experience with object-oriented programming and real-time applications.  
-  **Technologies and skillsets used**: C#, .NET framework
+### Daily Update Script (Society)  
+Developed a script to scrape received questions for a society and automatically write them into a spreadsheet on a daily basis.  
+**Technologies and skillsets used**: Python, Heroku, Selenium, Web-scraping
 
-### VBA
-- **Automation Projects**  
-  Automated tasks in Microsoft Excel using VBA, significantly improving productivity by reducing manual work.  
-  **Technologies and skillsets used**: VBA, Microsoft Excel
+### Introduction to Programming (Undergraduate Programme - C#)  
+Completed multiple in-class projects, gaining hands-on experience in object-oriented programming.  
+**Technologies and skillsets used**: C#, .NET Framework
 
-### Google Apps Script (JavaScript)
-- **Slack Bot**  
-  Created a custom Slack bot to automate workflow notifications and enhance team communications.  
-  **Technologies and skillsets used**: Google Apps Script, JavaScript, Slack API
+### Automation Projects (Internship)  
+Automated repetitive tasks in Microsoft Excel using VBA, significantly enhancing productivity and reducing manual work.  
+**Technologies and skillsets used**: VBA, Microsoft Excel, Macros
 
-- **LINE Notify**  
-  Integrated LINE Notify API to send automated notifications via LINE for various tasks.  
-  **Technologies and skillsets used**: Google Apps Script, LINE Notify API
+### Slack Bot Development (Internship)  
+Created a custom Slack bot to automate workflow notifications and streamline team communications.  
+**Technologies and skillsets used**: Google Apps Script, JavaScript, Slack API
 
-### Swift
-- **Introductory App**  
-  Built a basic iOS application as an introduction to mobile development using Swift.  
-  **Technologies and skillsets used**: Swift, Xcode
+### Messaging App Notify (Private Use)  
+Integrated LINE Notify API to automate notifications for various tasks via the LINE messaging app.  
+**Technologies and skillsets used**: Google Apps Script, LINE Notify API
+
+### Introductory iOS App Development  
+Developed a basic iOS app as a hands-on introduction to mobile development, based on a book reference.  
+**Technologies and skillsets used**: Swift, Xcode
 
 
 ## My Accounts
