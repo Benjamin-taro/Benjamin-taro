@@ -23,26 +23,46 @@
 - 🗣️ Speaking Japanese and English / 日本語と英語を話すことができる。
 - 📖 Currently studying Korean / 韓国語を現在勉強中。
 
-## My Works and Projects
+## Works and Projects
+
 ### Python
-- **Graduate Thesis**: Implemented Granger Causality tests and developed a **Spatial Lag Regression Model** to analyze transport data for my Master's dissertation.
-- **Dissertation Projects**: Applied various mathematical and statistical methods using Python to explore urban transportation systems.
+- **Graduate Thesis**  
+  Implemented Granger Causality tests and developed a Spatial Lag Regression Model to analyze transport data for my Master's dissertation.  
+  **Technologies and skillsets used**: Python, Pandas, Numpy, Statsmodels
+
+- **Dissertation Projects**  
+  Applied various mathematical and statistical methods using Python to explore urban transportation systems.  
+  **Technologies and skillsets used**: Python, Matplotlib, Scikit-learn, Geopandas
 
 ### C++
-- **Competitive Programming**: Active participant in competitive programming challenges on **Atcoder** and **Codeforces**, using C++ to solve complex algorithmic problems.
+- **Competitive Programming**  
+  Participated in programming contests to solve algorithmic challenges on platforms like Atcoder and Codeforces.  
+  **Technologies and skillsets used**: C++, STL
 
 ### C#
-- **Class Assignments**: Developed several in-class projects and assignments, gaining experience with object-oriented programming and real-time applications.
+- **Class Assignments**  
+  Developed several in-class projects, gaining experience with object-oriented programming and real-time applications.  
+  **Technologies and skillsets used**: C#, .NET framework
 
 ### VBA
-- **Automation Projects**: Leveraged VBA to automate tasks in Microsoft Excel, improving productivity and reducing manual work.
+- **Automation Projects**  
+  Automated tasks in Microsoft Excel using VBA, significantly improving productivity by reducing manual work.  
+  **Technologies and skillsets used**: VBA, Microsoft Excel
 
 ### Google Apps Script (JavaScript)
-- **Slack Bot**: Created a custom bot for Slack, automating workflow notifications and team communications.
-- **LINE Notify**: Integrated **LINE Notify API** to send automated notifications via LINE for various tasks.
+- **Slack Bot**  
+  Created a custom Slack bot to automate workflow notifications and enhance team communications.  
+  **Technologies and skillsets used**: Google Apps Script, JavaScript, Slack API
+
+- **LINE Notify**  
+  Integrated LINE Notify API to send automated notifications via LINE for various tasks.  
+  **Technologies and skillsets used**: Google Apps Script, LINE Notify API
 
 ### Swift
-- **Introductory App**: Built a basic iOS application as an introduction to mobile development with Swift.
+- **Introductory App**  
+  Built a basic iOS application as an introduction to mobile development using Swift.  
+  **Technologies and skillsets used**: Swift, Xcode
+
 
 ## My Accounts
 
