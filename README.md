@@ -70,6 +70,10 @@
 - 👨‍💻 [Codeforces](https://codeforces.com/profile/Benjamin_taro) Current Rate / 現在のレート: ![Codeforces Rating](https://badges.joonhyung.xyz/codeforces/Benjamin_taro.svg)
 - 🐦 [X (formerly Twitter)](https://twitter.com/_Benjamin_taro_)
 
+## My Resume
+
+![My Resume](./image.png)
+
 ## 🛠️ My Skills
 
 ### Programming Languages
