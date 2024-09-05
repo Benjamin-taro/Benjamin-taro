@@ -72,7 +72,7 @@
 
 ## My Resume
 
-![My Resume](./image.png)
+You can view my resume [here](./Yuki Ise resume.pdf).
 
 ## 🛠️ My Skills
 
