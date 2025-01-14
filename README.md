@@ -7,6 +7,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Benjamin-taro&theme=radical" width="600px" />
 
+<img src="https://cp-readme-stats.deno.dev/atcoder/stats/Benjamin_taro?theme=radical&use_rank_colour=true"/>
+
 </div>
 
 
