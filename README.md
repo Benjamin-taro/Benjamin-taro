@@ -28,25 +28,34 @@
 
 ### 🔸 Split-bill Application (Angular + FastAPI)
 A full-stack web app that processes receipt images, extracts item-level data via Llama-Vision OCR, and calculates shared expenses.  
-**Tech:** Angular, FastAPI, Python, OCR, REST API, TypeScript
+**Tech:** Angular, FastAPI, Python, OCR, REST API, TypeScript  
+**Code:**  
+- [Frontend](https://github.com/Benjamin-taro/ichiban-split-the-bill)  
+- [Backend](https://github.com/Benjamin-taro/receipt-splitter-backend)  
+- [Live App](https://ichiban-split-the-bill.vercel.app/)
 
 ---
 
 ### 🔸 Slack Automation Tool (Tazawa Motors Corporation)
-Developed and deployed an internal automation system integrating Google Apps Script, Slack API, and Google Sheets to automate rent and contract-renewal reminders.  
-**Tech:** Google Apps Script, Slack API, JavaScript
+Developed and deployed an internal automation system integrating Google Apps Script, Slack API, and Google Sheets to automate rent-payment and contract-renewal reminders.  
+**Tech:** Google Apps Script, Slack API, JavaScript  
+**Code:** *Internal, not publicly available*
 
 ---
 
 ### 🔸 PyQt To-do Desktop Application
 Cross-platform desktop app built to learn GUI development and explore local storage, Git workflows, and CI basics.  
-**Tech:** PyQt6, SQLite, Git/GitHub, CI/CD
+**Tech:** PyQt6, SQLite, Git/GitHub, CI/CD  
+**Code:**  
+- [Repository](https://github.com/Kankou-Labs/pyqtTodo)
 
 ---
 
 ### 🔸 Competitive Programming
 Consistently solving algorithmic challenges on AtCoder and Codeforces.  
-**Tech:** C++, Python | **Achievement:** Top 40 in the UK (AtCoder)
+**Tech:** C++, Python | **Achievement:** Top 40 in the UK (AtCoder)  
+**Code:**  
+- [AtCoder Solutions](https://github.com/Benjamin-taro/Atcoder)
 
 ---
 
