@@ -7,94 +7,71 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Benjamin-taro&theme=radical" width="600px" />
 
-<img src="https://cp-readme-stats.deno.dev/atcoder/stats/Benjamin_taro?theme=radical&use_rank_colour=true"/>
-
 </div>
 
 
 ![](https://komarev.com/ghpvc/?username=Benjamin-taro)
 
 
-## About Me
+## 🚀 About Me
 
-- 🏙️ From Yokohama, Japan / 横浜出身
-- 🏫 Studying MSc in City Planning at the [University of Glasgow, Scotland](https://www.gla.ac.uk/) / グラスゴー大学大学院にて都市計画(City Planning)を学んでいます。
-- 🌏 Graduated with a BA in Global Business from [Akita International University, Japan](https://web.aiu.ac.jp/en/) / 国際教養大学国際教養学部グローバルビジネス課程を卒業しました。
-- 💻 Passionate about Competitive Programming, especially on [Atcoder](https://atcoder.jp/) / 現在は競技プログラミング、特にAtcoderに熱中しています。
-- 🚄 Conducted transportation data analytics for my master’s dissertation / 修士論文にて交通データを扱ったデータ分析を行いました。
-- 💼 Actively seeking opportunities in various fields, ranging from Data Science to Software Engineering / データサイエンスからソフトウェアエンジニアリングまで、幅広い分野でのプロジェクトや機会を探しています。
-- 🗣️ Fluent in Japanese🇯🇵 and English🇬🇧 / 日本語と英語を話せます。
-- 📖 Currently studying Spanish🇪🇸 / スペイン語を勉強中です。
+- 💻 Early-career software developer passionate about building applications from the ground up  
+- 🎓 MSc in City Planning at the University of Glasgow (Distinction in dissertation)  
+- 💼 Interested in full-stack development, automation tools, and backend engineering  
+- 🧠 Competitive Programmer (AtCoder Top 40 in the UK)  
+- 🔧 Currently working with Angular, FastAPI, PyQt, and Google Apps Script  
+- 🌍 Fluent in Japanese 🇯🇵 and English 🇬🇧 | Learning Spanish 🇪🇸  
 
+---
 
-## Works and Projects
+## 🧩 Featured Projects
 
-### Graduate Thesis (Undergraduate Programme)  
-Implemented Granger Causality tests to analyze the relationship between economic development and transportation infrastructure.  
-**Technologies and skillsets used**: Python, Pandas, Numpy, Statsmodels, Causality Test
+### 🔸 Split-bill Application (Angular + FastAPI)
+A full-stack web app that processes receipt images, extracts item-level data via Llama-Vision OCR, and calculates shared expenses.  
+**Tech:** Angular, FastAPI, Python, OCR, REST API, TypeScript
 
-### Dissertation Project (Postgraduate Programme)  
-Explored the dynamics of ride-hailing usage and public transportation infrastructure in NYC using spatial lag regression models.  
-**Technologies and skillsets used**: Python, Matplotlib, Scikit-learn, Regression, Spatial Lag Model
+---
 
-### Competitive Programming  
-Actively participated in algorithmic challenges on platforms such as Atcoder and Codeforces.  
-**Technologies and skillsets used**: C++, Python, Problem-solving, Algorithms
+### 🔸 Slack Automation Tool (Tazawa Motors Corporation)
+Developed and deployed an internal automation system integrating Google Apps Script, Slack API, and Google Sheets to automate rent and contract-renewal reminders.  
+**Tech:** Google Apps Script, Slack API, JavaScript
 
-### Daily Update Script (Society)  
-Developed a script to scrape received questions for a society and automatically write them into a spreadsheet on a daily basis.  
-**Technologies and skillsets used**: Python, Heroku, Selenium, Web-scraping
+---
 
-### Introduction to Programming (Undergraduate Programme - C#)  
-Completed multiple in-class projects, gaining hands-on experience in object-oriented programming.  
-**Technologies and skillsets used**: C#, .NET Framework
+### 🔸 PyQt To-do Desktop Application
+Cross-platform desktop app built to learn GUI development and explore local storage, Git workflows, and CI basics.  
+**Tech:** PyQt6, SQLite, Git/GitHub, CI/CD
 
-### Automation Projects (Internship)  
-Automated repetitive tasks in Microsoft Excel using VBA, significantly enhancing productivity and reducing manual work.  
-**Technologies and skillsets used**: VBA, Microsoft Excel, Macros
+---
 
-### Slack Bot Development (Internship)  
-Created a custom Slack bot to automate workflow notifications and streamline team communications.  
-**Technologies and skillsets used**: Google Apps Script, JavaScript, Slack API
+### 🔸 Competitive Programming
+Consistently solving algorithmic challenges on AtCoder and Codeforces.  
+**Tech:** C++, Python | **Achievement:** Top 40 in the UK (AtCoder)
 
-### Messaging App Notify (Private Use)  
-Integrated LINE Notify API to automate notifications for various tasks via the LINE messaging app.  
-**Technologies and skillsets used**: Google Apps Script, LINE Notify API
+---
 
-### Introductory iOS App Development  
-Developed a basic iOS app as a hands-on introduction to mobile development, based on a book reference.  
-**Technologies and skillsets used**: Swift, Xcode
+## 🛠️ Technical Skills
 
-
-## My Accounts
-
-- 🌐 [Atcoder](https://atcoder.jp/users/Benjamin_taro) Current Rate / 現在のレート: ![Atcoder Rating](https://badges.joonhyung.xyz/atcoder/Benjamin_taro.svg)
-- 👨‍💻 [Codeforces](https://codeforces.com/profile/Benjamin_taro) Current Rate / 現在のレート: ![Codeforces Rating](https://badges.joonhyung.xyz/codeforces/Benjamin_taro.svg)
-- 🐦 [X (formerly Twitter)](https://twitter.com/_Benjamin_taro_)
-
-## 🛠️ My Skills
-
-### Programming Languages
-
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frameworks and Libraries
+### Frameworks & Tools
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/GAS-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+---
+
+## My Accounts
+- 💼 [LinkedIn](https://www.linkedin.com/in/iseyuki)  
+- 🌐 [Atcoder](https://atcoder.jp/users/Benjamin_taro) Current Rate: ![Atcoder Rating](https://badges.joonhyung.xyz/atcoder/Benjamin_taro.svg)
+- 👨‍💻 [Codeforces](https://codeforces.com/profile/Benjamin_taro) Current Rate: ![Codeforces Rating](https://badges.joonhyung.xyz/codeforces/Benjamin_taro.svg)
+- 🐦 [X (formerly Twitter)](https://twitter.com/_Benjamin_taro_)
 
